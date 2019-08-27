@@ -1,0 +1,17 @@
+
+
+.inner-card{
+    background-color: slategray
+    
+}
+.monster-card{
+    transition: ease-out 0.2s;
+}
+.monster-card:hover{
+    cursor: pointer;
+    transform: scale(1.05) 
+}
+
+img{
+    width: 90%;
+}
